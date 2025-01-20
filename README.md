@@ -8,3 +8,6 @@ Conocimientos de git y comandos basicos para buen manejo y aprovechamiento de tr
 ## Parte I
 git add:
 git commit -m "2:
+## Parte II
+Solucion De Conflictos
+
