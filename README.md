@@ -6,8 +6,8 @@ Conocimientos de git y comandos basicos para buen manejo y aprovechamiento de tr
 - Alison Valderrama
 - Jeimy Yaya
 ## Parte I
-git add:
-git commit -m "2:
+El comando **git add** se usa para mover cambios desde el directorio de trabajo al área de preparación.
+El comando **git commit** guarda los cambios en el área de preparación en el repositorio local con un mensaje descriptivo.
 ## Parte II
 Solucion De Conflictos
 
