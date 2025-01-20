@@ -9,7 +9,9 @@ El comando **git add** se usa para mover cambios desde el directorio de trabajo 
 El comando **git commit** guarda los cambios en el área de preparación en el repositorio local con un mensaje descriptivo.
 ## Parte II
 Solución De Conflictos
--Owner: Jeimy Yaya
--Collaborator: Alison Valderrama
+-Owner: Jeimy Yaya    
+-Collaborator: Alison Valderrama    
+Cuando se edita y se suben al mismo tiempo los cambios al **Collaborator** le sale el siguiente error:
+
 
 
