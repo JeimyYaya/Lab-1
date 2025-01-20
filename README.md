@@ -5,5 +5,6 @@ Conocimientos de git y comandos basicos
 ## Integrantes
 - Alison Valderrama
 - Jeimy Yaya
-
-
+## Parte I
+git add:
+git commit -m "2:
