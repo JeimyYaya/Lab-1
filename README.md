@@ -21,7 +21,13 @@ Esto significa que el **Owner** subió una versión del proyecto que el **Collab
 
 ![Corrección del error](Imagenes/image(3).png)
 
-Usando IntelliJ para resolver el conflicto, aparecera una interfaz que nos muestra
+Usando IntelliJ para resolver el conflicto, aparecera una interfaz que nos muestra el error y la opción para unir las dos versiones existentes.
+
+![Imagen IntelliJ](Imagenes/image(7).png)
+
+![Imagen IntelliJ Merge](Imagenes/image(8).png)
+
+
 
 
 
