@@ -17,7 +17,11 @@ Cuando se edita y se suben al mismo tiempo los cambios al **Collaborator** le sa
    
 ![Imagen error](Imagenes/image(2).png)
 
-Esto significa que el **Owner** subio una versión del proyecto que el **Collaboratoor** no posee, ahora el **Colaborador debe tomar esa versión del proyecto y corregir los problemas de las difenretes versiones(la de él y la del **Owner**)
+Esto significa que el **Owner** subió una versión del proyecto que el **Collaborator** no posee, ahora el **Collaborador** debe tomar esa versión del proyecto y corregir los problemas de las diferentes versiones(la de él y la del **Owner**)
+
+![Corrección del error](Imagenes/image(3).png)
+
+Usando IntelliJ para resolver el conflicto, aparecera una interfaz que nos muestra
 
 
 
