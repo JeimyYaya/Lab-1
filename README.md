@@ -4,14 +4,16 @@ Conocimientos de git y comandos basicos para buen manejo y aprovechamiento de tr
 ## Integrantes
 - Alison Valderrama
 - Jeimy Yaya
+# RESPUESTAS
 ## Parte I
 El comando **git add** se usa para mover cambios desde el directorio de trabajo al área de preparación.   
 El comando **git commit** guarda los cambios en el área de preparación en el repositorio local con un mensaje descriptivo.
 ## Parte II
 Solución De Conflictos  
--Owner: Jeimy Yaya    
--Collaborator: Alison Valderrama    
-Cuando se edita y se suben al mismo tiempo los cambios al **Collaborator** le sale el siguiente error:   
+- **Owner**: Jeimy Yaya    
+- **Collaborator**: Alison Valderrama    
+Cuando se edita y se suben al mismo tiempo los cambios al **Collaborator** le sale el siguiente error:
+   
 ![Imagen error](Imagenes/image(2).png)
 
 
