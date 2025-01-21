@@ -27,6 +27,8 @@ Usando IntelliJ para resolver el conflicto, aparecera una interfaz que nos muest
 
 ![Imagen IntelliJ Merge](Imagenes/image(8).png)
 
+Esto nos permite elegir que versión queremos y finalmente realizar el commit con los cambios.
+
 
 
 
