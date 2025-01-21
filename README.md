@@ -12,7 +12,7 @@ Solución De Conflictos
 -Owner: Jeimy Yaya    
 -Collaborator: Alison Valderrama    
 Cuando se edita y se suben al mismo tiempo los cambios al **Collaborator** le sale el siguiente error:
-![alt text](https://github.com/[JeimyYaya]/[Lab-1]/blob/[master]/image(2).png?raw=true)
+![Imagen error](Imagenes/image (2).png)
 
 
 
