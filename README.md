@@ -11,8 +11,8 @@ El comando **git commit** guarda los cambios en el área de preparación en el r
 Solución De Conflictos  
 -Owner: Jeimy Yaya    
 -Collaborator: Alison Valderrama    
-Cuando se edita y se suben al mismo tiempo los cambios al **Collaborator** le sale el siguiente error:
-![Imagen error](Imagenes/image (2).png)
+Cuando se edita y se suben al mismo tiempo los cambios al **Collaborator** le sale el siguiente error:   
+![Imagen error](Imagenes/image(2).png)
 
 
 
