@@ -11,10 +11,15 @@ El comando **git commit** guarda los cambios en el área de preparación en el r
 ## Parte II
 Solución De Conflictos  
 - **Owner**: Jeimy Yaya    
-- **Collaborator**: Alison Valderrama    
+- **Collaborator**: Alison Valderrama
+   
 Cuando se edita y se suben al mismo tiempo los cambios al **Collaborator** le sale el siguiente error:
    
 ![Imagen error](Imagenes/image(2).png)
+
+Esto significa que el **Owner** subio una versión del proyecto que el **Collaboratoor** no posee, ahora el **Colaborador debe tomar esa versión del proyecto y corregir los problemas de las difenretes versiones(la de él y la del **Owner**)
+
+
 
 
 
