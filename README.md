@@ -32,6 +32,8 @@ Usando IntelliJ para resolver el conflicto, aparecera una interfaz que nos muest
 
 Esto nos permite elegir que versión queremos y finalmente realizar el commit con los cambios.
 
+## Parte III
+
 
 
 
