@@ -33,12 +33,16 @@ Usando IntelliJ para resolver el conflicto, aparecera una interfaz que nos muest
 Esto nos permite elegir que versión queremos y finalmente realizar el commit con los cambios.
 
 ## Parte III
-**¿Hay una mejor forma de trabajar con git para no tener conflictos?**   
-Una opción es trabajar con ramas asi cada desarrollador puede trabajar en una rama específica en lugar de modificar directamente la rama principa, al finalizar puede fusionarlo con la rama principal.   
+**¿Hay una mejor forma de trabajar con git para no tener conflictos?**
+   
+- Una opción es trabajar con ramas asi cada desarrollador puede trabajar en una rama específica en lugar de modificar directamente la rama principa, al finalizar puede fusionarlo con la rama principal.
+     
 **¿Qué es y como funciona el Pull Request?**   
-Es una funcionalidad que ofrecen plataformas de colaboración como GitHub para facilitar la integración de cambios en proyectos colaborativos. Es una solicitud para que los cambios realizados en una rama específica sean revisados, discutidos y fusionados con otra rama, usualmente la principal.   
-
-**Cada una crea una rama**
+   
+- Es una funcionalidad que ofrecen plataformas de colaboración como GitHub para facilitar la integración de cambios en proyectos colaborativos. Es una solicitud para que los cambios realizados en una rama específica sean revisados, discutidos y fusionados con otra rama, usualmente la principal.   
+   
+**Cada una crea una rama**   
+![Ramas](Imagenes/ramas.png)   
 
 
 
