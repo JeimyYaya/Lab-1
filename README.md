@@ -42,7 +42,9 @@ Esto nos permite elegir que versión queremos y finalmente realizar el commit co
 - Es una funcionalidad que ofrecen plataformas de colaboración como GitHub para facilitar la integración de cambios en proyectos colaborativos. Es una solicitud para que los cambios realizados en una rama específica sean revisados, discutidos y fusionados con otra rama, usualmente la principal.   
    
 **Cada una crea una rama**   
-![Ramas](Imagenes/ramas.png)   
+![Ramas](Imagenes/ramas.png)
+Tenemos 2 branches en este caso feature/Yeimy y branch feature/alison para poder trabajar sin tener conflictos en la rama master 
+
 
 
 
