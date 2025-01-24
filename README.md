@@ -45,7 +45,7 @@ Esto nos permite elegir que versión queremos y finalmente realizar el commit co
    
 **Cada una crea una rama**   
 ![Ramas](Imagenes/ramas.png)
-Tenemos 2 branches en este caso feature/Yeimy y branch feature/alison para poder trabajar sin tener conflictos en la rama master 
+Tenemos 2 branches en este caso feature/Jeimy y feature/Alison para poder trabajar sin tener conflictos en la rama master 
 
 
 
