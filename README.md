@@ -44,13 +44,20 @@ Esto nos permite elegir que versión queremos y finalmente realizar el commit co
 - Es una funcionalidad que ofrecen plataformas de colaboración como GitHub para facilitar la integración de cambios en proyectos colaborativos. Es una solicitud para que los cambios realizados en una rama específica sean revisados, discutidos y fusionados con otra rama, usualmente la principal.   
    
 **Cada una crea una rama**   
-![Ramas](Imagenes/ramas.png)
 Tenemos 2 branches en este caso feature/Jeimy y feature/Alison para poder trabajar sin tener conflictos en la rama master.   
+![Ramas](Imagenes/ramas.png)
+   
 Luego desde el cmd cada uno ingresa a su rama y realiza los respectivos cambios para luego realizar un pull en su rama correspondiente.  
 <div style="display: flex; justify-content: space-around;">
   <img src="Imagenes/ramaJeimy.png" alt="Alt Text 1" width="500">
   <img src="Imagenes/ramaAlison.png" alt="Alt Text 2" width="500">
 </div>
+Estos cambios aparecen en la interfaz de GitHub que nos muestra la opción de comparar y combinar los cambios que cada una realizo a la rama principal.   
+<div style="display: flex; justify-content: space-around;">
+  <img src="Imagenes/ramaJeimy.png" alt="Alt Text 1" width="300">
+  <img src="Imagenes/pullReqJeimy.png" alt="Alt Text 2" width="300">
+</div>
+
 
 
 
