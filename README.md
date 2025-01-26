@@ -45,7 +45,13 @@ Esto nos permite elegir que versión queremos y finalmente realizar el commit co
    
 **Cada una crea una rama**   
 ![Ramas](Imagenes/ramas.png)
-Tenemos 2 branches en este caso feature/Jeimy y feature/Alison para poder trabajar sin tener conflictos en la rama master 
+Tenemos 2 branches en este caso feature/Jeimy y feature/Alison para poder trabajar sin tener conflictos en la rama master.   
+Luego desde el cmd cada uno ingresa a su rama y realiza los respectivos cambios para luego realizar un pull en su rama correspondiente.  
+<div style="display: flex; justify-content: space-around;">
+  <img src="Imagenes/ramaAlison.png" alt="Alt Text 1" width="200">
+  <img src="Imagenes/ramaJeimy.png" alt="Alt Text 2" width="200">
+</div>
+
 
 
 
