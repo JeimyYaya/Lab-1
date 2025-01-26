@@ -52,14 +52,38 @@ Luego desde el cmd cada uno ingresa a su rama y realiza los respectivos cambios 
   <img src="Imagenes/ramaJeimy.png" alt="Alt Text 1" width="500">
   <img src="Imagenes/ramaAlison.png" alt="Alt Text 2" width="500">
 </div>
+
 Estos cambios aparecen en la interfaz de GitHub que nos muestra la opción de comparar y combinar los cambios que cada una realizo a la rama principal.   
 <div style="display: flex; justify-content: space-around;">
-  <img src="Imagenes/pullReqJeimy.png" alt="Alt Text 1" width="500">
-  <img src="Imagenes/pullReqAlison.png" alt="Alt Text 2" width="500">
+  <img src="Imagenes/pullReqALison.png" alt="Alt Text 1" width="500">
+  <img src="Imagenes/pullReqJeimy.png" alt="Alt Text 2" width="500">
 </div>
 
+Al presionar la opción de **Compare & pull request** a cada una le aparece los cambios que realizó.   
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="Imagenes/cambiosJeimy.png" alt="Alt Text 1" width="500">
+  <img src="Imagenes/cambiosAlison.png" alt="Alt Text 2" width="500">
+</div>
 
+Luego cada una crea su pull request y combina las nuevas versiones con la rama principal.
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="Imagenes/mergeA.png" alt="Alt Text 1" width="500">
+  <img src="Imagenes/mergeJ.png" alt="Alt Text 2" width="500">
+</div>
+   
+<div style="display: flex; justify-content: space-around;">
+  <img src="Imagenes/merge2A.png" alt="Alt Text 1" width="500">
+  <img src="Imagenes/merge2J.png" alt="Alt Text 2" width="500">
+</div>
+
+Finalmente se eliminan las ramas.   
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="Imagenes/delA.png" alt="Alt Text 1" width="500">
+  <img src="Imagenes/delJ.png" alt="Alt Text 2" width="500">
+</div>
 
 
 
