@@ -49,7 +49,7 @@ Tenemos 2 branches en este caso feature/Jeimy y feature/Alison para poder trabaj
 Luego desde el cmd cada uno ingresa a su rama y realiza los respectivos cambios para luego realizar un pull en su rama correspondiente.  
 <div style="display: flex; justify-content: space-around;">
   <img src="Imagenes/ramaJeimy.png" alt="Alt Text 1" width="500">
-  <img src="Imagenes/ramaAlison.png" alt="Alt Text 2" width="600">
+  <img src="Imagenes/ramaAlison.png" alt="Alt Text 2" width="500">
 </div>
 
 
