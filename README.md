@@ -55,7 +55,7 @@ Luego desde el cmd cada uno ingresa a su rama y realiza los respectivos cambios 
 
 Estos cambios aparecen en la interfaz de GitHub que nos muestra la opción de comparar y combinar los cambios que cada una realizo a la rama principal.   
 <div style="display: flex; justify-content: space-around;">
-  <img src="Imagenes/pullReqALison.png" alt="Alt Text 1" width="500">
+  <img src="Imagenes/pullReqAlison.png" alt="Alt Text 1" width="500">
   <img src="Imagenes/pullReqJeimy.png" alt="Alt Text 2" width="500">
 </div>
 
